@@ -1,2 +1,2 @@
-# -stepik_autotests_final
+# stepik_autotests_final
  Final work
